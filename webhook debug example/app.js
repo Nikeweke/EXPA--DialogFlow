@@ -17,7 +17,7 @@ app.post('/dialogflow', express.json(), (request, response) => {
   }
 
   let intentMap = new Map()
-  intentMap.set('Default Welcome Intent', welcome)
+  intentMap.set('Default Welcome Intent', welcome) // Default Welcome Intent - это название Intent'a
   agent.handleRequest(intentMap)
 }) 
 
