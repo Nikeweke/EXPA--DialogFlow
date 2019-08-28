@@ -1,4 +1,4 @@
-# EXPA - DialogFlow
+# Examples - DialogFlow
 #### AI bots - with DialogFLow
 
 * [DialogFlow SDK](https://dialogflow.com/docs/sdks)
